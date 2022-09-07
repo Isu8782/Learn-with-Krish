@@ -13,7 +13,7 @@ public class Application {
 		List<Employee> employees = employeeService.getAllEmployees();
 		
 		for(Employee employee : employees) {
-			System.out.println(employee.getEmployeeName() + "at" + employee.getEmployeeLocation());
+			System.out.println(employee.getEmployeeName() + " at" + employee.getEmployeeLocation());
 		}
 	}
 }
