@@ -1,4 +1,4 @@
-package com.example.VirtusaWeb;
+package com.example.JSPServeletPrac;
 
 import java.io.*;
 import javax.servlet.http.*;

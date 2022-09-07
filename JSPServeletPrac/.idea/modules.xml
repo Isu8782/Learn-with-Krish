@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSPServeletPractical.iml" filepath="$PROJECT_DIR$/JSPServeletPractical.iml" />
       <module fileurl="file://$PROJECT_DIR$/VirtusaWeb.iml" filepath="$PROJECT_DIR$/VirtusaWeb.iml" />
     </modules>
   </component>
